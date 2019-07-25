@@ -4,6 +4,6 @@ attr_accessor :name :genre
 
 def initialize
   @name = name
-  @gnre = genre
+  @genre = genre
 
 end
