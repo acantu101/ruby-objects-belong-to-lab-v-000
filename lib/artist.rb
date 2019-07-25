@@ -7,3 +7,4 @@ def initialize
   @genre = genre
 
 end
+end
